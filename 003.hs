@@ -1,4 +1,3 @@
-
 -- take step in eratosphen cell by removing all multipliers of x in xs
 ec_step :: Integer -> [Integer] -> [Integer]
 ec_step 1 xs = xs
