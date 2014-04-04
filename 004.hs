@@ -1,4 +1,3 @@
-
 isPolindrome :: Integer -> Bool
 isPolindrome x = reverse x' == x'
     where x' = show x
